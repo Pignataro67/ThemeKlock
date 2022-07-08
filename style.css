@@ -65,4 +65,6 @@ body {
   background-color: var(--primary-color);
   position: absolute;
   top: 50%;
+  height: 65px;
+  width: 3px;
 }
