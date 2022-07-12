@@ -110,6 +110,7 @@ body {
   border-radius: 50%;
 }
 
-.time {
-  font-size: 60px;
+.date {
+  color: #aaa;
+  font-size: 14px;
 }
