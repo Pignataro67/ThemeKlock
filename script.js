@@ -12,4 +12,7 @@ toggle.addEventListener('click', (e) => {
         e.target.innerHTML = 'Dark mode'
     } else {
         html.classList.add('dark')
+        
+        e.target.innerHTML = 'Light mode'
     }
+})
